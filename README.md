@@ -1,5 +1,5 @@
 # Swarm Cursors: a Claude skill
-
+ 
 Tell Claude **"add the swarm effect to my homepage"** and it wires up a page that wipes to a
 blank canvas, then rebuilds itself live with a swarm of multiplayer cursors: crosshair-drawn
 boxes, typed text, pen-tool lines, ruler guides and alt-drag duplicates, with synthesized
